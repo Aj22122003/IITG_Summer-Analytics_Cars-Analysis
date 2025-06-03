@@ -1,6 +1,6 @@
 # 🚀 IIT Guwahati - Summer Analytics 2025
 
-![IITG Logo](https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/Indian_Institute_of_Technology_Guwahati_Logo.svg/1200px-Indian_Institute_of_Technology_Guwahati_Logo.svg.png)
+
 
 _Official repository for the Summer Analytics 2025 program conducted by IIT Guwahati_
 
