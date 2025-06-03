@@ -2,7 +2,7 @@
 
 
 
-_Official repository for the Summer Analytics 2025 program conducted by IIT Guwahati_
+Official repository for the Summer Analytics 2025 program conducted by IIT Guwahati
 
 ---
 
