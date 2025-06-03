@@ -94,11 +94,6 @@ Open a Pull Request 🎉
 This repository is for academic and learning purposes under the Summer Analytics 2025 Program by IIT Guwahati.
 
 Made with ❤️ by Ajinkya Kutarmare
-
-yaml
-Copy
-Edit
-
 ---
 
-Let me know if you'd like to personalize it more or convert it into a downloadable file.
+e.
